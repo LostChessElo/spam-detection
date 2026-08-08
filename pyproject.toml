@@ -10,7 +10,7 @@ dependencies = [
     "pandas>=3.0.5",
 ]
 
-[dependency-groups]
+[project.optional-dependencies]
 dev = [
     "mypy>=2.3.0",
     "pytest>=9.1.1",
