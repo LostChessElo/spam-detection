@@ -27,6 +27,8 @@ def parse_args():
     
     return args.file if args.file else args.csv
 
+
+
 def main():
     pass
 
